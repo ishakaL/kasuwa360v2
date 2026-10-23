@@ -1,0 +1,12 @@
+{
+  "name": "kasuwa360/kasuwa360-mvp",
+  "description": "Kasuwa360 marketplace MVP built with native PHP, MySQL-compatible schema and SQLite fallback for local development.",
+  "type": "project",
+  "require": {},
+  "autoload": {
+    "classmap": [
+      "app/",
+      "config/"
+    ]
+  }
+}
